@@ -6,11 +6,11 @@
 - [Rubot](https://github.com/Rdeisenroth/Rubot2) - A general Purpose discord Bot written in Typescript (which will soon go public)
 - [Partnerschaftsverein-Kahl-Website](https://github.com/Rdeisenroth/Partnerschaftsvereinwebsite) - A Website written with Angular (which will soon go public)
 
-<details>
-<summary><u><b>My stats :zap:</b></u></summary>
+<!-- <details>
+<summary><u><b>My stats :zap:</b></u></summary> -->
 [![Rdeisenroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdeisenroth&show_icons=true&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeisenroth&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+<!-- </details> -->
 
 
 <!--
