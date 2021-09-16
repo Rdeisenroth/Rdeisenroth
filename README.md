@@ -1,9 +1,9 @@
-# 👋Hi, I'm Ruben (aka [Rdeisenroth](https://github.com/Rdeisenroth)), i like to code stuff
+# 👋Hi, I'm Ruben (aka [Rdeisenroth](https://github.com/Rdeisenroth), aka Rubos), i like to code stuff
 
 ## 🔭 My current Projects
+- [Rubot](https://github.com/Rdeisenroth/Rubot2) - A general Purpose discord Bot written in Typescript that will primarily be used to manage the teaching discord for FOP2022
 - [Rubos-TUDA-Template](https://github.com/Rdeisenroth/Rubos-TUDA-Template) - A LaTeX Template  based on [tudaexercise.cls](https://github.com/tudace/tuda_latex_templates/blob/master/tex/tudaexercise.cls)
 - [AuD-Zusammenfassung](https://github.com/Rdeisenroth/AuD-Zusammenfassung) A Summary of the Subject Algorithms and Datastructures
-- [Rubot](https://github.com/Rdeisenroth/Rubot2) - A general Purpose discord Bot written in Typescript (which will soon go public)
 - [Partnerschaftsverein-Kahl-Website](https://github.com/Rdeisenroth/Partnerschaftsvereinwebsite) - A Website written with Angular (which will soon go public)
 
 <!-- <details>
