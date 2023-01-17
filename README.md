@@ -8,8 +8,8 @@
 
 <!-- <details>
 <summary><u><b>My stats :zap:</b></u></summary> -->
-[![Rdeisenroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdeisenroth&show_icons=true&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeisenroth&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rdeisenroth's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rdeisenroth&show_icons=true&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rdeisenroth&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- </details> -->
 
 
